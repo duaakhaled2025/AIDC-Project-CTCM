@@ -807,6 +807,15 @@ Keep the repository version of `k8s/secret.yaml` empty or placeholder-only and i
 
 ## Team
 
-**Team 2 — AI Data Center Operations Capstone**
+**Content Tagging & Competency Mapping (CTCM)**  
+**AI Data Center Operations Bootcamp | 2026**
 
-**Content Tagging & Competency Mapping (CTCM)**
+This project was collaboratively developed as part of the AI Data Center Operations Bootcamp Capstone Project.
+
+**Team Members:**
+- Shorouq Aljohani
+- Noura Alotaibi
+- Hadeel Almutairi
+- Duaa Almahry
+
+The team collaborated on AI model evaluation, deployment, benchmarking, and performance monitoring.
