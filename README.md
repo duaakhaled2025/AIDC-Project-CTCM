@@ -1,7 +1,3 @@
-# AIDC-Project-CTCM
-AI-powered learning content tagging, difficulty classification, and competency mapping | AIDC Bootcamp 2026
-# AIDC-Project-CTCM
-AI-powered learning content tagging, difficulty classification, and competency mapping | AIDC Bootcamp 2026
 
 # Content Tagging & Competency Mapping (CTCM)
 
